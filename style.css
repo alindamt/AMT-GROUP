@@ -169,7 +169,7 @@ img {
     width: 30px;
     height: 2px;
     margin: 6px auto;
-    background: #111111;
+    background: #25d366;
     transition: 0.3s ease;
 }
 
@@ -186,7 +186,7 @@ img {
     right: 0;
     z-index: 999;
     padding: 28px 25px;
-    background: #ffffff;
+    background: #25d366;
     border-bottom: 1px solid #dddddd;
     box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08);
 }
@@ -313,7 +313,7 @@ img {
 }
 
 .btn-primary {
-    background: #ffffff;
+    background: #25d366;
     color: #111111;
 }
 
@@ -328,8 +328,8 @@ img {
 }
 
 .btn-light:hover {
-    background: #ffffff;
-    color: #111111;
+    background: #25d366;
+    color: #ffffff;
 }
 
 .hero-info {
