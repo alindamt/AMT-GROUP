@@ -1388,3 +1388,14 @@ footer {
         gap: 15px;
     }
 }
+
+.designer-footer a {
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: none;
+    letter-spacing: 1.5px;
+}
+
+.designer-footer a:hover {
+    text-decoration: underline;
+}
