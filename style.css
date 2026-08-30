@@ -247,7 +247,7 @@ img {
             rgba(0, 0, 0, 0.40) 55%,
             rgba(0, 0, 0, 0.12) 100%
         ),
-        url("./images/hero.jpg");
+        url("./hero.jpg");
 
     background-size: cover;
     background-position: center;
@@ -314,7 +314,7 @@ img {
 
 .btn-primary {
     background: #25d366;
-    color: #111111;
+    color: #ffffff;
 }
 
 .btn-primary:hover {
