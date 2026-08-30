@@ -118,7 +118,7 @@ img {
     bottom: -7px;
     width: 0;
     height: 2px;
-    background: #111111;
+    background: #25d366;
     transition: width 0.25s ease;
 }
 
@@ -137,7 +137,7 @@ img {
     min-height: 46px;
     padding: 0 22px;
     border-radius: 30px;
-    background: #111111;
+    background: #25d366;
     color: #ffffff;
     font-size: 14px;
     font-weight: 700;
@@ -207,7 +207,7 @@ img {
     padding: 15px;
     border-radius: 30px;
     text-align: center;
-    background: #111111;
+    background: #25d366;
     color: #ffffff;
 }
 
