@@ -19,7 +19,7 @@ html {
 
 body {
     font-family: "Inter", Arial, sans-serif;
-    color: #ffffff;
+    color: #111111;
     background: #ffffff;
     border: 1px solid #25d366;
     line-height: 1.6;
@@ -90,7 +90,7 @@ img {
 }
 
 .logo-text {
-    color: #777777;
+    color: #2d398e;
     font-size: 15px;
     font-weight: 700;
     letter-spacing: 4px;
@@ -729,7 +729,7 @@ img {
     margin: 0 auto 130px;
     padding: 100px 7%;
     border-radius: 30px;
-    background:  #108A00;
+    background:  #2d398e;
     color: #ffffff;
 }
 
