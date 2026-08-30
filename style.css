@@ -393,7 +393,7 @@ img {
 .cta-section h2,
 .contact-info h2 {
     margin-top: 15px;
-    color: #111111;
+    color: ##2D398E;
     font-size: clamp(40px, 5vw, 65px);
     font-weight: 700;
     line-height: 1.05;
